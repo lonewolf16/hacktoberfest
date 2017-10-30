@@ -16672,3 +16672,8 @@ to explore life. Also, Python and Django Developer
  - Place: West Bengal, India
  - Bio: Learning Web Dev & Design
  - GitHub: [lenkachinmoy](https://github.com/lenkachinmoy)
+
+#### Name: [Soumil Ghosh](https://github.com/lonewolf16)
+ - Place: West Bengal, India
+ - Bio: CSE Student At JGEC
+ - GitHub: [lonewolf16](https://github.com/lonewolf16)
